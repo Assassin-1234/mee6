@@ -20,6 +20,7 @@ client.on('message', async message => {
         'Mee6 developer was drunk when he made mee6 @everyone',
         '@everyone Can y\'all just ping @here in all the other servers and tell em to buy premium',
         'I have so many good features like pinging @here @everyone and telling them to buy premium',
+        'Get 20% more XP for 12h by voting for MEE6 on top.gg.\nEvery 12 hours, you can vote for MEE6 on top.gg, which would help us stand out at the top.gg website.\nWhat are you waiting for? To the voting page!',
         ]
     message.channel.send(responses[Math.floor(Math.random()*responses.length)]);
 });
