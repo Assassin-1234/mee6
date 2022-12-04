@@ -8,6 +8,8 @@ client.on('ready', async () => {
 
 client.on('message', async message => {
     let responses = ['@everyone @here PLEASE BUY PREMIUM, I WONT WORK WITHOUT IT', 
+                     '@here i am a bto htat hsa speling erors thta was onyl fixde in 2020',// makes fun at mee6 spelling errors that where only fixed in 2021  or 2020 idk
+         '@here Dont use Fred boat use my crappy music plugin which can only play music up to 2 Minutes', 
         'PLEASE I AM A SHITTY PAID BOT, BUY PREMIUM @everyone @here', 
         'PLEASE BUY PREMIUM @everyone @here I will suck cok', 
         '@everyone my developer poor ples buy premium', 
@@ -15,6 +17,7 @@ client.on('message', async message => {
         '@everyone @here I am MEE6 and pls buy premium', 
         '@everyone MY PREMIUM IS VERY SHITTY LIKE ME, SO BUY IT', 
         '@everyone Just buy premium, cause I am a shitty paid bot',
+         '@here Dont forget to sell your kidney when buying premimum',
         'Buy premium to get all the shitty commands I have and no one will want to use (@here oops)',
         '@everyone Can y\'all just ping @everyone in all the other servers and tell em to buy premium',
         'Mee6 developer was drunk when he made mee6 @everyone',
