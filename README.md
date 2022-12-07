@@ -1,5 +1,5 @@
 # mee6
-### the clone of mee6 bot.
+### A 1:1 recreation of MEE6 bot.
 
 # how to run:
 step one: install dependencies, run ```npm install``` in the terminal
