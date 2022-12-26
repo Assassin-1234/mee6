@@ -1,7 +1,7 @@
 const Discord = require('discord.js')
 const client = new Discord.Client({ disableMentions: 'all' })
 const { prefix, token } = require('./config.json')
-var randstuuf = Math.floor((Math.random() * 4) + 1);
+var randstuuf = Math.floor((Math.random() * 21) + 1);
 
 client.on('ready', async () => {
         client.user.setActivity('real shitty bot', {type: 'WATCHING' });
