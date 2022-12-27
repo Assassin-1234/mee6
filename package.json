@@ -1,13 +1,13 @@
 {
-  "name": "typescript-test",
+  "name": "mee6-the-shitty-bot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Sukking balls,LLC",
+  "license": "copyright 2022 Assassin-1234, DO NOT REDISTRIBUTE THIS SHITTY AND DON'T USE OUR SHITTY SPAGETTI CODE",
   "dependencies": {
     "discord.js": "^12.5.1"
   }
